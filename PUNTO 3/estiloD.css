@@ -1,0 +1,23 @@
+form {
+	padding: 50px 20px;
+	background-color: #ededed;
+	margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
+}
+h1 {
+	text-align: center;
+	padding: 12px;
+	color: #444
+}
+
+input[type='submit']{
+	background-color: #F50808;
+	color: #F8F5F5;
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 30px;
+	border: none;
+}
+
